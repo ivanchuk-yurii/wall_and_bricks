@@ -1,0 +1,24 @@
+.form__question {
+  font-weight: bold;
+}
+
+.form__question:not(:first-child) {
+  margin-top: 15px;
+}
+
+.form__input {
+  margin-left: 10px;
+}
+
+.form__button {
+  padding: 10px;
+  margin-top: 25px;
+}
+
+.form__button:hover {
+  cursor: pointer;
+}
+
+.form__button:focus {
+  transform: translateY(5px);
+}

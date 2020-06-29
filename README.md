@@ -1,13 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[DEMO LINK](https://wa7er14.github.io/wall_and_bricks/)
 
-## Available Scripts
+##npm i - install packages
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-
-
+##npm start - start project

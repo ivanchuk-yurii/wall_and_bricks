@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wall_and_bricks/static/css/main.a5263faf.chunk.css",
+    "main.js": "/wall_and_bricks/static/js/main.9756630b.chunk.js",
+    "main.js.map": "/wall_and_bricks/static/js/main.9756630b.chunk.js.map",
+    "runtime-main.js": "/wall_and_bricks/static/js/runtime-main.6afc1809.js",
+    "runtime-main.js.map": "/wall_and_bricks/static/js/runtime-main.6afc1809.js.map",
+    "static/js/2.41beef36.chunk.js": "/wall_and_bricks/static/js/2.41beef36.chunk.js",
+    "static/js/2.41beef36.chunk.js.map": "/wall_and_bricks/static/js/2.41beef36.chunk.js.map",
+    "index.html": "/wall_and_bricks/index.html",
+    "precache-manifest.c388e7badf2a66df673ba057c7e87a8d.js": "/wall_and_bricks/precache-manifest.c388e7badf2a66df673ba057c7e87a8d.js",
+    "service-worker.js": "/wall_and_bricks/service-worker.js",
+    "static/css/main.a5263faf.chunk.css.map": "/wall_and_bricks/static/css/main.a5263faf.chunk.css.map",
+    "static/js/2.41beef36.chunk.js.LICENSE.txt": "/wall_and_bricks/static/js/2.41beef36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6afc1809.js",
+    "static/js/2.41beef36.chunk.js",
+    "static/css/main.a5263faf.chunk.css",
+    "static/js/main.9756630b.chunk.js"
+  ]
+}
